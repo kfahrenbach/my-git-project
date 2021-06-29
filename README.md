@@ -1,3 +1,5 @@
 # My Git Project
 
-> my got for the git project
+> my code for the git project
+
+# feature branch
