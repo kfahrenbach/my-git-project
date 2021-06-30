@@ -5,4 +5,4 @@
 # feature branch
 
 > another code change
-> another change
+> another code change
